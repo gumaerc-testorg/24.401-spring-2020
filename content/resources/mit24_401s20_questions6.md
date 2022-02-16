@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-401-proseminar-in-philosophy-ii-spring-2020/b7b523ab7581e4f3456c8fe3963f9c66_MIT24_401S20_Questions6.pdf
+file: /media/courses/24-401-proseminar-in-philosophy-ii-spring-2020/b7b523ab7581e4f3456c8fe3963f9c66_MIT24_401S20_Questions6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings Questions
+parent_type: CourseSection
 resourcetype: Document
 title: '24.401S20 Readings Questions: Lewis, On The Plurality of Worlds I'
 uid: b7b523ab-7581-e4f3-456c-8fe3963f9c66

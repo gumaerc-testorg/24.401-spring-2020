@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-401-proseminar-in-philosophy-ii-spring-2020/b33d25869c1b544d4bae0047f9700674_MIT24_401S20_Questions9.pdf
+file: /media/courses/24-401-proseminar-in-philosophy-ii-spring-2020/b33d25869c1b544d4bae0047f9700674_MIT24_401S20_Questions9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings Questions
+parent_type: CourseSection
 resourcetype: Document
 title: '24.401S20 Readings Questions: Williams and Lewis'
 uid: b33d2586-9c1b-544d-4bae-0047f9700674

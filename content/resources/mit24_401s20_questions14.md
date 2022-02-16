@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-401-proseminar-in-philosophy-ii-spring-2020/790b95ad30de789538d6377e2cec648b_MIT24_401S20_Questions14.pdf
+file: /media/courses/24-401-proseminar-in-philosophy-ii-spring-2020/790b95ad30de789538d6377e2cec648b_MIT24_401S20_Questions14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings Questions
+parent_type: CourseSection
 resourcetype: Document
 title: '24.401S20 Readings Questions: Gettier and Nozick'
 uid: 790b95ad-30de-7895-38d6-377e2cec648b

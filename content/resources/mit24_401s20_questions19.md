@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-401-proseminar-in-philosophy-ii-spring-2020/b394b13a1dfa3f16a6ea94c8c1e3d30c_MIT24_401S20_Questions19.pdf
+file: /media/courses/24-401-proseminar-in-philosophy-ii-spring-2020/b394b13a1dfa3f16a6ea94c8c1e3d30c_MIT24_401S20_Questions19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings Questions
+parent_type: CourseSection
 resourcetype: Document
 title: '24.401S20 Readings Questions: Thomson, Killing, Letting Die, and the Trolley
   Problem'

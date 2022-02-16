@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-401-proseminar-in-philosophy-ii-spring-2020/410ca9b9b9d575039f0d0f42c7aa2522_MIT24_401S20_Questions21.pdf
+file: /media/courses/24-401-proseminar-in-philosophy-ii-spring-2020/410ca9b9b9d575039f0d0f42c7aa2522_MIT24_401S20_Questions21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings Questions
+parent_type: CourseSection
 resourcetype: Document
 title: '24.401S20 Readings Questions: Nozick and Rawls'
 uid: 410ca9b9-b9d5-7503-9f0d-0f42c7aa2522
