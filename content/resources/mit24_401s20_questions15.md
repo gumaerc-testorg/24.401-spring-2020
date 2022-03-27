@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings Questions
 parent_type: CourseSection
+parent_uid: ec17ce96-dbcd-bca4-0edf-e5343a42bf62
 resourcetype: Document
 title: '24.401S20 Readings Questions: Lewis and DeRose'
 uid: c78734b3-7dab-6716-4ff0-95d8287179ed

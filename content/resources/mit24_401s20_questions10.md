@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings Questions
 parent_type: CourseSection
+parent_uid: ec17ce96-dbcd-bca4-0edf-e5343a42bf62
 resourcetype: Document
 title: '24.401S20 Readings Questions: Williamson, Vagueness'
 uid: 10dcbbc8-d98b-39d5-c1bf-debe41e99503

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings Questions
 parent_type: CourseSection
+parent_uid: ec17ce96-dbcd-bca4-0edf-e5343a42bf62
 resourcetype: Document
 title: '24.401S20 Readings Questions: Foot, Morality as a System of Hypothetical Imperatives'
 uid: 0b271125-8a73-335f-ae3d-82965596fc41

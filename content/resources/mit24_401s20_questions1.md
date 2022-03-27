@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings Questions
 parent_type: CourseSection
+parent_uid: ec17ce96-dbcd-bca4-0edf-e5343a42bf62
 resourcetype: Document
 title: '24.401S20 Readings Questions: Kripke, Wittgenstein on Rules and Private Language'
 uid: cf840965-2d58-f15b-baf3-bc8870137de6

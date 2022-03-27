@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings Questions
 parent_type: CourseSection
+parent_uid: ec17ce96-dbcd-bca4-0edf-e5343a42bf62
 resourcetype: Document
 title: '24.401S20 Readings Questions: Quine and Stroud'
 uid: dbf59fc4-cfb7-06cd-e41d-fd741062727a

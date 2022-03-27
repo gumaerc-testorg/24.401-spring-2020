@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings Questions
 parent_type: CourseSection
+parent_uid: ec17ce96-dbcd-bca4-0edf-e5343a42bf62
 resourcetype: Document
 title: '24.401S20 Readings Questions: Johnston, The Obscure Object of Hallucination '
 uid: 30f5fc61-2e5b-f7e8-1742-2ac72c4c2aaa
