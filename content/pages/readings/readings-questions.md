@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains questions associated with the course readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -34,7 +35,7 @@ TOPICS
 1 
 {{< tdclose >}}
 {{< tdopen >}}
-[Kripke, _Wittgenstein on Rules and Private Language_ (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions1)
+{{% resource_link cf840965-2d58-f15b-baf3-bc8870137de6 "Kripke, _Wittgenstein on Rules and Private Language_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ TOPICS
 2–3
 {{< tdclose >}}
 {{< tdopen >}}
-[Kripke, _Naming and Necessity_ (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions2and3)
+{{% resource_link 727d419a-424d-e400-ee2a-d94c1b552429 "Kripke, _Naming and Necessity_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ TOPICS
 4 
 {{< tdclose >}}
 {{< tdopen >}}
-[Grice, “Meaning” and “Logic and Conversation” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions4)
+{{% resource_link 889d85e8-c26f-678e-2bcc-dcffad183d22 "Grice, “Meaning” and “Logic and Conversation” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ TOPICS
 5 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lewis, “Languages and Language” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions5)
+{{% resource_link 99940618-6582-e1ef-d0f5-5d541a074127 "Lewis, “Languages and Language” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Lewis, _On the Plurality of Worlds_ (I) (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions6)
+{{% resource_link b7b523ab-7581-e4f3-456c-8fe3963f9c66 "Lewis, _On the Plurality of Worlds_ (I) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Lewis, _On the Plurality of Worlds_ (II) (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions7)
+{{% resource_link 14b1aea3-978d-ee90-82db-c179d5e3996b "Lewis, _On the Plurality of Worlds_ (II) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +95,7 @@ TOPICS
 8 
 {{< tdclose >}}
 {{< tdopen >}}
-[Williamson, “Necessary Existents” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions8)
+{{% resource_link 1391786c-af45-daac-0441-15900cc84a45 "Williamson, “Necessary Existents” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Williams, “The Self and the Future”; Lewis, “Survival and Identity” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions9)
+{{% resource_link b33d2586-9c1b-544d-4bae-0047f9700674 "Williams, “The Self and the Future”; Lewis, “Survival and Identity” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +113,7 @@ TOPICS
 10 
 {{< tdclose >}}
 {{< tdopen >}}
-[Williamson, _Vagueness_ (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions10)
+{{% resource_link 10dcbbc8-d98b-39d5-c1bf-debe41e99503 "Williamson, _Vagueness_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ TOPICS
 11 
 {{< tdclose >}}
 {{< tdopen >}}
-[Johnston, “The Obscure Object of Hallucination” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions11)
+{{% resource_link 30f5fc61-2e5b-f7e8-1742-2ac72c4c2aaa "Johnston, “The Obscure Object of Hallucination” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +137,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Burge, “Individualism and the Mental” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions12)
+{{% resource_link cc884b55-50bd-ad51-b6c4-e18450c9b3be "Burge, “Individualism and the Mental” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +152,7 @@ TOPICS
 13 
 {{< tdclose >}}
 {{< tdopen >}}
-[Quine, “Epistemology Naturalized”; Stroud, _The Significance of Philosophical Scepticism_ (PDF - 1MB)]({{< baseurl >}}/resources/mit24_401s20_questions13)
+{{% resource_link dbf59fc4-cfb7-06cd-e41d-fd741062727a "Quine, “Epistemology Naturalized”; Stroud, _The Significance of Philosophical Scepticism_ (PDF - 1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +161,7 @@ TOPICS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Gettier, “Is Justified True Belief Knowledge?”; Nozick, _Philosophical Explanations_ (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions14)
+{{% resource_link 790b95ad-30de-7895-38d6-377e2cec648b "Gettier, “Is Justified True Belief Knowledge?”; Nozick, _Philosophical Explanations_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ TOPICS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Lewis, “Elusive Knowledge”; DeRose, “Solving the Skeptical Problem” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions15)
+{{% resource_link c78734b3-7dab-6716-4ff0-95d8287179ed "Lewis, “Elusive Knowledge”; DeRose, “Solving the Skeptical Problem” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +179,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Briggs, “Distorted Reflection” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions16)
+{{% resource_link 9732e302-5bb7-60bb-1cf4-68e56ce26208 "Briggs, “Distorted Reflection” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Williamson, _Knowledge and Its Limits_ (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions17)
+{{% resource_link 7947a18b-9b6b-1267-3002-08486c7b647e "Williamson, _Knowledge and Its Limits_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +203,7 @@ TOPICS
 18 
 {{< tdclose >}}
 {{< tdopen >}}
-[Foot, “Morality as a System of Hypothetical Imperatives” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions18)
+{{% resource_link 0b271125-8a73-335f-ae3d-82965596fc41 "Foot, “Morality as a System of Hypothetical Imperatives” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +212,7 @@ TOPICS
 19 
 {{< tdclose >}}
 {{< tdopen >}}
-[Thomson, “Killing, Letting Die, and the Trolley Problem” (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions19)
+{{% resource_link b394b13a-1dfa-3f16-a6ea-94c8c1e3d30c "Thomson, “Killing, Letting Die, and the Trolley Problem” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +221,7 @@ TOPICS
 20 
 {{< tdclose >}}
 {{< tdopen >}}
-[Gibbard, _Wise Choices, Apt Feelings_ (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions20)
+{{% resource_link 55ffa5f1-5aa4-e9fa-819c-27042157b937 "Gibbard, _Wise Choices, Apt Feelings_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ TOPICS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Nozick, _Anarchy, State, and Utopia_; Rawls, _A Theory of Justice_ (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions21)
+{{% resource_link 410ca9b9-b9d5-7503-9f0d-0f42c7aa2522 "Nozick, _Anarchy, State, and Utopia_; Rawls, _A Theory of Justice_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +239,7 @@ TOPICS
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Parfit, _Reasons and Persons_ (PDF)]({{< baseurl >}}/resources/mit24_401s20_questions22)
+{{% resource_link ade86025-d7eb-e34d-484b-63cc0e0a0ae7 "Parfit, _Reasons and Persons_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

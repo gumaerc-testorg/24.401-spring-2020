@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-401-proseminar-in-philosophy-ii-spring-2020/889d85e8c26f678e2bccdcffad183d22_MIT24_401S20_Questions4.pdf
+file: /courses/24-401-proseminar-in-philosophy-ii-spring-2020/889d85e8c26f678e2bccdcffad183d22_MIT24_401S20_Questions4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
