@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course syllabus as well as course topics and
+  key assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: e8dd7c75-1b21-c7e3-921c-473c3520ea3b
 ---
@@ -22,12 +26,12 @@ This course is for first-year graduate students. It is an intensive seminar on s
 Course Meetings
 ---------------
 
-Each session will consist of a discussion of [questions]({{< baseurl >}}/pages/readings/readings-questions). Two students divvy up the questions between them and get the ball rolling with presentations, one before the break and one after. Please ensure that your presentation contains an attempt to answer the questions. Every presentation should be accompanied by a handout. Presenters lead the discussion. For every question Q and student S, S should contribute to the discussion of Q. 
+Each session will consist of a discussion of {{% resource_link ec17ce96-dbcd-bca4-0edf-e5343a42bf62 "questions" %}}. Two students divvy up the questions between them and get the ball rolling with presentations, one before the break and one after. Please ensure that your presentation contains an attempt to answer the questions. Every presentation should be accompanied by a handout. Presenters lead the discussion. For every question Q and student S, S should contribute to the discussion of Q. 
 
 Assignments
 -----------
 
-Students will be responsible for writing two papers during the semester. An 8-page paper will be due during session 11. An approximately 15-page paper will be during the final class. Each paper must be on a topic from one of the five parts of the class. For further detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Students will be responsible for writing two papers during the semester. An 8-page paper will be due during session 11. An approximately 15-page paper will be during the final class. Each paper must be on a topic from one of the five parts of the class. For further detail, see the {{% resource_link e461b161-8680-516f-7896-4e671a366938 "Assignments" %}} section.
 
 Grading Policy
 --------------
@@ -69,7 +73,7 @@ Papers
 Readings
 --------
 
-All readings can be found in the table in the [Readings]({{< baseurl >}}/pages/readings) section. We will only be reading selections from the books listed. All are worth buying, however.
+All readings can be found in the table in the {{% resource_link 0a69728e-1703-dead-2a9d-7ec67002158e "Readings" %}} section. We will only be reading selections from the books listed. All are worth buying, however.
 
 Calendar
 --------

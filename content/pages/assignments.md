@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e461b161-8680-516f-7896-4e671a366938
 ---
@@ -13,7 +17,7 @@ Answer one question. 
 
 2) What ought to matter to me in cases where my survival is in question? That I continue to exist? That there is ongoing psychological continuity? Could these come apart? Explain and evaluate Lewis’s answer to these questions.
 
-3) What is the sorites paradox? (_Vagueness_, chapter 1.) Outline the supervaluationism solution. (Chapter 5.) Against supervaluationism Williamson says: ‘Once the supposed advantages of supertruth are seen to be illusory, it becomes overwhelmingly plausible to equate ordinary truth with the property that meets Tarski’s disquotational condition, truthT’ (163). What does he mean? Do his arguments against supervaluationism work?
+3) What is the sorites paradox? (_Vagueness_, chapter 1.) Outline the supervaluationism solution. (Chapter 5.) Against supervaluationism Williamson says: ‘Once the supposed advantages of supertruth are seen to be illusory, it becomes overwhelmingly plausible to equate ordinary truth with the property that meets Tarski’s disquotational condition, truth{{< sub "T" >}}’ (163). What does he mean? Do his arguments against supervaluationism work?
 
 4) Explain Lewis’s theory of what it is for a language £ to be used by a population _P_. Hawthorne (‘A note...’) objects to Lewis, who replies in ‘Meaning without use’. Hawthorne replies in ‘Meaning and evidence’. Who wins?
 
