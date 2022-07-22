@@ -5,6 +5,7 @@ file: /courses/24-401-proseminar-in-philosophy-ii-spring-2020/b33d25869c1b544d4b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings Questions
 parent_type: CourseSection
